@@ -1,0 +1,12 @@
+names:
+- tear
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: rubber_seal_v2
+  url: https://universe.roboflow.com/productdefectdetection/rubber_seal_v2/dataset/1
+  version: 1
+  workspace: productdefectdetection
+test: ../test/images
+train: train/images
+val: valid/images
